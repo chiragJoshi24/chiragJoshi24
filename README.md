@@ -16,7 +16,7 @@ I like building scalable and efficient web & mobile applications with passion an
 ##  **GitHub Stats** 📊
 
 <div align="center" style="display: flex; ustify-content: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragjoshi24&theme=radical&hide_border=true" alt="LordShekharHans Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragjoshi24&theme=radical&hide_border=true" alt="ChiragJoshiStats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjoshi24&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
