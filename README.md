@@ -1,4 +1,4 @@
-# ✨ **Hello there, I'm Chirag Joshi!** 👋
+# **Hello there, I'm Chirag Joshi!** 👋
 
 ![Banner Image](https://github.com/user-attachments/assets/0e4db239-1978-4fe6-8e4b-70c60a61cd89)
 
@@ -8,10 +8,10 @@ I like building scalable and efficient web & mobile applications with passion an
 
 
 ##  **About Me**: 💫
-- 🌱 **Currently learning** advanced concepts in **Backend Development** and **Cloud Technologies**!
-- 🧑‍💻 Actively contributing to **open-source projects** and collaborating with teams to deliver high-quality solutions.
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**.
-- 📧 Reach out to me via email: [chirag45610@gmail.com](mailto:chirag45610@gmail.com).
+- **Currently learning** advanced concepts in **Backend Development** and **Cloud Technologies**!
+- Actively contributing to **open-source projects** and collaborating with teams to deliver high-quality solutions.
+- Ask me about **React.js**, **Node.js**, **MongoDB**.
+- Reach out to me via email: [chirag45610@gmail.com](mailto:chirag45610@gmail.com).
 
 ##  **GitHub Stats** 📊
 
