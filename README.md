@@ -2,7 +2,7 @@
 
 ![Banner Image](https://github.com/user-attachments/assets/0e4db239-1978-4fe6-8e4b-70c60a61cd89)
 
-<h3 align="left">I'm a Front End Developer 🚀
+<h3 align="left">I'm a Software Developer 🚀
 <br><br>
 I like building scalable and efficient web & mobile applications with passion and precision 💡</h3>
 
