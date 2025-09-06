@@ -49,11 +49,14 @@ I like building scalable and efficient web & mobile applications with passion an
 
 ### **Backend Development**:
 <div align="left">
-    <br>
+  <br>
   <img src="https://img.shields.io/badge/MongoDB-%2300C853.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-%234E73B8.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%2523FFCA28.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/DRF-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
 </div>
 
 
